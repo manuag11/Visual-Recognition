@@ -1,0 +1,500 @@
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_45049.JPEG	sax, saxophone	sax, saxophone	shovel	fiddler crab	barber chair	yurt
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_43556.JPEG	sax, saxophone	sax, saxophone	church, church building	fiddler crab	dalmatian, coach dog, carriage dog	baseball
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_13527.JPEG	sax, saxophone	sax, saxophone	barber chair	limousine, limo	gong, tam-tam	sea lion
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_47290.JPEG	sax, saxophone	sax, saxophone	gong, tam-tam	bearskin, busby, shako	measuring cup	shovel
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_48315.JPEG	sax, saxophone	gong, tam-tam	sax, saxophone	baseball	limousine, limo	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_13133.JPEG	sax, saxophone	sax, saxophone	church, church building	projectile, missile	bearskin, busby, shako	yurt
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_43018.JPEG	sax, saxophone	sax, saxophone	gong, tam-tam	church, church building	shovel	limousine, limo
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_48121.JPEG	sax, saxophone	sax, saxophone	baseball	projectile, missile	shovel	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_43815.JPEG	sax, saxophone	sax, saxophone	shovel	meerkat, mierkat	gong, tam-tam	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_41643.JPEG	sax, saxophone	sax, saxophone	barber chair	projectile, missile	shovel	measuring cup
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_39417.JPEG	sax, saxophone	sax, saxophone	yurt	shovel	measuring cup	barber chair
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_42081.JPEG	sax, saxophone	sax, saxophone	gong, tam-tam	shovel	baseball	church, church building
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_43949.JPEG	sax, saxophone	sax, saxophone	shovel	measuring cup	barber chair	obelisk
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_36465.JPEG	sax, saxophone	sax, saxophone	shovel	gong, tam-tam	ant, emmet, pismire	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_34137.JPEG	sax, saxophone	shovel	sax, saxophone	bearskin, busby, shako	baseball	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_37049.JPEG	sax, saxophone	sax, saxophone	measuring cup	gong, tam-tam	puffer, pufferfish, blowfish, globefish	baseball
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_40578.JPEG	sax, saxophone	sax, saxophone	shovel	barber chair	snow leopard, ounce, Panthera uncia	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_42139.JPEG	sax, saxophone	sax, saxophone	bearskin, busby, shako	baseball	gong, tam-tam	shovel
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_43860.JPEG	sax, saxophone	sax, saxophone	shovel	bearskin, busby, shako	gong, tam-tam	baseball
+/home/03701/manuag/hw2/data/test_images/sax/n04141076_34802.JPEG	sax, saxophone	sax, saxophone	baseball	bearskin, busby, shako	gong, tam-tam	church, church building
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_15057.JPEG	limousine, limo	limousine, limo	projectile, missile	baseball	barber chair	shovel
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_4982.JPEG	limousine, limo	limousine, limo	barber chair	yurt	sandbar, sand bar	projectile, missile
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_3314.JPEG	limousine, limo	limousine, limo	puffer, pufferfish, blowfish, globefish	bluetick	dalmatian, coach dog, carriage dog	barber chair
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_5775.JPEG	limousine, limo	limousine, limo	projectile, missile	gong, tam-tam	barber chair	measuring cup
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_51829.JPEG	limousine, limo	limousine, limo	sea lion	barber chair	bearskin, busby, shako	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_8566.JPEG	limousine, limo	limousine, limo	projectile, missile	baseball	barber chair	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_40119.JPEG	limousine, limo	limousine, limo	barber chair	dalmatian, coach dog, carriage dog	measuring cup	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_4715.JPEG	limousine, limo	limousine, limo	projectile, missile	sandbar, sand bar	dalmatian, coach dog, carriage dog	shovel
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_9210.JPEG	limousine, limo	limousine, limo	sandbar, sand bar	measuring cup	sea lion	yurt
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_11278.JPEG	limousine, limo	limousine, limo	projectile, missile	dalmatian, coach dog, carriage dog	shovel	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_6873.JPEG	limousine, limo	limousine, limo	barber chair	yurt	sandbar, sand bar	projectile, missile
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_16977.JPEG	limousine, limo	limousine, limo	dalmatian, coach dog, carriage dog	sea lion	baseball	yurt
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_27859.JPEG	limousine, limo	limousine, limo	barber chair	projectile, missile	baseball	obelisk
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_12785.JPEG	limousine, limo	limousine, limo	obelisk	projectile, missile	lakeside, lakeshore	church, church building
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_15045.JPEG	limousine, limo	limousine, limo	bearskin, busby, shako	projectile, missile	baseball	barber chair
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_18540.JPEG	limousine, limo	limousine, limo	measuring cup	dalmatian, coach dog, carriage dog	projectile, missile	barber chair
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_1767.JPEG	limousine, limo	limousine, limo	projectile, missile	lakeside, lakeshore	sea lion	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_124.JPEG	limousine, limo	limousine, limo	projectile, missile	barber chair	dalmatian, coach dog, carriage dog	bluetick
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_55887.JPEG	limousine, limo	limousine, limo	barber chair	sax, saxophone	projectile, missile	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/limousine/n03670208_4369.JPEG	limousine, limo	limousine, limo	bluetick	shovel	barber chair	measuring cup
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_3475.JPEG	gong, tam-tam	gong, tam-tam	church, church building	bearskin, busby, shako	projectile, missile	obelisk
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_2480.JPEG	gong, tam-tam	gong, tam-tam	bearskin, busby, shako	sax, saxophone	bluetick	measuring cup
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_22497.JPEG	gong, tam-tam	gong, tam-tam	mushroom	bearskin, busby, shako	Saluki, gazelle hound	baseball
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_49346.JPEG	gong, tam-tam	gong, tam-tam	bearskin, busby, shako	mushroom	puffer, pufferfish, blowfish, globefish	sea lion
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_16285.JPEG	gong, tam-tam	gong, tam-tam	bluetick	dalmatian, coach dog, carriage dog	shovel	barber chair
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_10960.JPEG	gong, tam-tam	gong, tam-tam	barber chair	bearskin, busby, shako	projectile, missile	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_20551.JPEG	gong, tam-tam	mushroom	baseball	gong, tam-tam	puffer, pufferfish, blowfish, globefish	ant, emmet, pismire
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_13191.JPEG	gong, tam-tam	gong, tam-tam	ant, emmet, pismire	bluetick	dalmatian, coach dog, carriage dog	barber chair
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_2591.JPEG	gong, tam-tam	gong, tam-tam	sax, saxophone	church, church building	mushroom	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_6711.JPEG	gong, tam-tam	sax, saxophone	gong, tam-tam	bearskin, busby, shako	barber chair	church, church building
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_9126.JPEG	gong, tam-tam	gong, tam-tam	yurt	bearskin, busby, shako	measuring cup	obelisk
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_35329.JPEG	gong, tam-tam	gong, tam-tam	church, church building	projectile, missile	bluetick	mushroom
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_13544.JPEG	gong, tam-tam	gong, tam-tam	mushroom	sea lion	puffer, pufferfish, blowfish, globefish	ant, emmet, pismire
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_3510.JPEG	gong, tam-tam	gong, tam-tam	bluetick	bearskin, busby, shako	sax, saxophone	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_24563.JPEG	gong, tam-tam	gong, tam-tam	measuring cup	sax, saxophone	limousine, limo	obelisk
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_24626.JPEG	gong, tam-tam	gong, tam-tam	mushroom	bluetick	puffer, pufferfish, blowfish, globefish	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_46363.JPEG	gong, tam-tam	gong, tam-tam	bluetick	barber chair	mushroom	baseball
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_897.JPEG	gong, tam-tam	gong, tam-tam	church, church building	ant, emmet, pismire	bearskin, busby, shako	bluetick
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_5542.JPEG	gong, tam-tam	gong, tam-tam	measuring cup	puffer, pufferfish, blowfish, globefish	church, church building	sea lion
+/home/03701/manuag/hw2/data/test_images/gong/n03447721_21788.JPEG	gong, tam-tam	gong, tam-tam	measuring cup	shovel	bearskin, busby, shako	barber chair
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_63690.JPEG	shovel	shovel	ant, emmet, pismire	fiddler crab	sea lion	baseball
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_57983.JPEG	shovel	shovel	sax, saxophone	Saluki, gazelle hound	bearskin, busby, shako	yurt
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_16868.JPEG	shovel	mushroom	shovel	gong, tam-tam	barber chair	church, church building
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_1583.JPEG	shovel	shovel	sandbar, sand bar	church, church building	ant, emmet, pismire	yurt
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_11551.JPEG	shovel	shovel	mushroom	obelisk	measuring cup	baseball
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_23476.JPEG	shovel	shovel	limousine, limo	measuring cup	bluetick	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_14351.JPEG	shovel	projectile, missile	shovel	sax, saxophone	sea lion	church, church building
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_15112.JPEG	shovel	sea lion	shovel	dalmatian, coach dog, carriage dog	sandbar, sand bar	bluetick
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_16531.JPEG	shovel	shovel	sax, saxophone	Brittany spaniel	ant, emmet, pismire	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_16631.JPEG	shovel	shovel	barber chair	measuring cup	obelisk	baseball
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_7723.JPEG	shovel	shovel	fiddler crab	measuring cup	baseball	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_10374.JPEG	shovel	sandbar, sand bar	shovel	dalmatian, coach dog, carriage dog	bluetick	sea lion
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_16283.JPEG	shovel	shovel	baseball	gong, tam-tam	mushroom	obelisk
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_6306.JPEG	shovel	measuring cup	Saluki, gazelle hound	obelisk	baseball	shovel
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_5718.JPEG	shovel	shovel	bearskin, busby, shako	Saluki, gazelle hound	ant, emmet, pismire	church, church building
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_45852.JPEG	shovel	shovel	bluetick	sax, saxophone	bearskin, busby, shako	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_129.JPEG	shovel	shovel	yurt	dalmatian, coach dog, carriage dog	measuring cup	projectile, missile
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_9571.JPEG	shovel	shovel	mushroom	projectile, missile	bearskin, busby, shako	measuring cup
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_16691.JPEG	shovel	shovel	meerkat, mierkat	gong, tam-tam	measuring cup	barber chair
+/home/03701/manuag/hw2/data/test_images/shove/n04208210_50330.JPEG	shovel	shovel	church, church building	yurt	limousine, limo	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_1750.JPEG	fiddler crab	fiddler crab	ant, emmet, pismire	sea lion	shovel	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_205.JPEG	fiddler crab	fiddler crab	sandbar, sand bar	ant, emmet, pismire	puffer, pufferfish, blowfish, globefish	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_5844.JPEG	fiddler crab	fiddler crab	bluetick	dalmatian, coach dog, carriage dog	shovel	ant, emmet, pismire
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_1555.JPEG	fiddler crab	fiddler crab	baseball	barber chair	measuring cup	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_5744.JPEG	fiddler crab	fiddler crab	mushroom	baseball	sea lion	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_9422.JPEG	fiddler crab	fiddler crab	baseball	mushroom	gong, tam-tam	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_8323.JPEG	fiddler crab	fiddler crab	puffer, pufferfish, blowfish, globefish	sea lion	projectile, missile	barber chair
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_8702.JPEG	fiddler crab	fiddler crab	puffer, pufferfish, blowfish, globefish	ant, emmet, pismire	measuring cup	mushroom
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_4844.JPEG	fiddler crab	fiddler crab	ant, emmet, pismire	puffer, pufferfish, blowfish, globefish	bluetick	sea lion
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_8648.JPEG	fiddler crab	fiddler crab	ant, emmet, pismire	bluetick	puffer, pufferfish, blowfish, globefish	sea lion
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_9.JPEG	fiddler crab	fiddler crab	bluetick	bearskin, busby, shako	barber chair	sea lion
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_3830.JPEG	fiddler crab	fiddler crab	meerkat, mierkat	ant, emmet, pismire	puffer, pufferfish, blowfish, globefish	bluetick
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_3771.JPEG	fiddler crab	fiddler crab	bluetick	shovel	mushroom	measuring cup
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_7684.JPEG	fiddler crab	fiddler crab	ant, emmet, pismire	sax, saxophone	puffer, pufferfish, blowfish, globefish	baseball
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_6573.JPEG	fiddler crab	fiddler crab	baseball	mushroom	sax, saxophone	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_1197.JPEG	fiddler crab	fiddler crab	baseball	measuring cup	puffer, pufferfish, blowfish, globefish	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_1455.JPEG	fiddler crab	fiddler crab	puffer, pufferfish, blowfish, globefish	shovel	ant, emmet, pismire	measuring cup
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_4097.JPEG	fiddler crab	fiddler crab	projectile, missile	baseball	mushroom	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_4964.JPEG	fiddler crab	fiddler crab	puffer, pufferfish, blowfish, globefish	baseball	mushroom	sea lion
+/home/03701/manuag/hw2/data/test_images/fiddle/n01980166_833.JPEG	fiddler crab	fiddler crab	puffer, pufferfish, blowfish, globefish	sea lion	sax, saxophone	mushroom
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_3126.JPEG	bearskin, busby, shako	bearskin, busby, shako	shovel	baseball	gong, tam-tam	barber chair
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_9216.JPEG	bearskin, busby, shako	bearskin, busby, shako	lakeside, lakeshore	church, church building	sandbar, sand bar	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_40766.JPEG	bearskin, busby, shako	bearskin, busby, shako	church, church building	shovel	sax, saxophone	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_42562.JPEG	bearskin, busby, shako	bearskin, busby, shako	measuring cup	baseball	gong, tam-tam	church, church building
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_15616.JPEG	bearskin, busby, shako	bearskin, busby, shako	gong, tam-tam	shovel	mushroom	obelisk
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_35648.JPEG	bearskin, busby, shako	bearskin, busby, shako	limousine, limo	sax, saxophone	shovel	baseball
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_15816.JPEG	bearskin, busby, shako	bearskin, busby, shako	projectile, missile	baseball	barber chair	measuring cup
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_16439.JPEG	bearskin, busby, shako	bearskin, busby, shako	measuring cup	baseball	shovel	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_16288.JPEG	bearskin, busby, shako	bearskin, busby, shako	baseball	sax, saxophone	projectile, missile	shovel
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_9285.JPEG	bearskin, busby, shako	bearskin, busby, shako	sax, saxophone	barber chair	gong, tam-tam	limousine, limo
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_58364.JPEG	bearskin, busby, shako	bearskin, busby, shako	gong, tam-tam	sax, saxophone	barber chair	bluetick
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_2965.JPEG	bearskin, busby, shako	bearskin, busby, shako	obelisk	sax, saxophone	limousine, limo	baseball
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_9145.JPEG	bearskin, busby, shako	bearskin, busby, shako	bluetick	barber chair	sax, saxophone	baseball
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_34467.JPEG	bearskin, busby, shako	bearskin, busby, shako	shovel	sax, saxophone	baseball	limousine, limo
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_20472.JPEG	bearskin, busby, shako	bearskin, busby, shako	barber chair	projectile, missile	sax, saxophone	yurt
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_51223.JPEG	bearskin, busby, shako	bearskin, busby, shako	sax, saxophone	barber chair	obelisk	limousine, limo
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_42905.JPEG	bearskin, busby, shako	bearskin, busby, shako	measuring cup	shovel	puffer, pufferfish, blowfish, globefish	barber chair
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_6391.JPEG	bearskin, busby, shako	bearskin, busby, shako	limousine, limo	sax, saxophone	shovel	baseball
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_17372.JPEG	bearskin, busby, shako	bearskin, busby, shako	gong, tam-tam	baseball	bluetick	measuring cup
+/home/03701/manuag/hw2/data/test_images/bearskin/n02817516_44391.JPEG	bearskin, busby, shako	bearskin, busby, shako	bluetick	gong, tam-tam	limousine, limo	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/se/n02077923_6863.JPEG	sea lion	sea lion	sandbar, sand bar	shovel	meerkat, mierkat	fiddler crab
+/home/03701/manuag/hw2/data/test_images/se/n02077923_87.JPEG	sea lion	sea lion	mushroom	projectile, missile	fiddler crab	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/se/n02077923_1310.JPEG	sea lion	sea lion	bluetick	meerkat, mierkat	gong, tam-tam	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/se/n02077923_5273.JPEG	sea lion	sea lion	lakeside, lakeshore	snow leopard, ounce, Panthera uncia	fiddler crab	mushroom
+/home/03701/manuag/hw2/data/test_images/se/n02077923_4236.JPEG	sea lion	lakeside, lakeshore	sea lion	shovel	sandbar, sand bar	yurt
+/home/03701/manuag/hw2/data/test_images/se/n02077923_4779.JPEG	sea lion	sea lion	puffer, pufferfish, blowfish, globefish	shovel	fiddler crab	bluetick
+/home/03701/manuag/hw2/data/test_images/se/n02077923_11900.JPEG	sea lion	sea lion	puffer, pufferfish, blowfish, globefish	fiddler crab	shovel	mushroom
+/home/03701/manuag/hw2/data/test_images/se/n02077923_1930.JPEG	sea lion	sea lion	puffer, pufferfish, blowfish, globefish	gong, tam-tam	meerkat, mierkat	bluetick
+/home/03701/manuag/hw2/data/test_images/se/n02077923_13376.JPEG	sea lion	sea lion	meerkat, mierkat	sandbar, sand bar	Saluki, gazelle hound	measuring cup
+/home/03701/manuag/hw2/data/test_images/se/n02077923_679.JPEG	sea lion	sea lion	puffer, pufferfish, blowfish, globefish	lakeside, lakeshore	sandbar, sand bar	fiddler crab
+/home/03701/manuag/hw2/data/test_images/se/n02077923_11567.JPEG	sea lion	sea lion	puffer, pufferfish, blowfish, globefish	lakeside, lakeshore	fiddler crab	bluetick
+/home/03701/manuag/hw2/data/test_images/se/n02077923_7270.JPEG	sea lion	sea lion	shovel	fiddler crab	baseball	bluetick
+/home/03701/manuag/hw2/data/test_images/se/n02077923_10710.JPEG	sea lion	sea lion	sandbar, sand bar	lakeside, lakeshore	puffer, pufferfish, blowfish, globefish	fiddler crab
+/home/03701/manuag/hw2/data/test_images/se/n02077923_1221.JPEG	sea lion	sea lion	baseball	fiddler crab	gong, tam-tam	barber chair
+/home/03701/manuag/hw2/data/test_images/se/n02077923_4201.JPEG	sea lion	sea lion	shovel	lakeside, lakeshore	bluetick	mushroom
+/home/03701/manuag/hw2/data/test_images/se/n02077923_1082.JPEG	sea lion	sea lion	sandbar, sand bar	projectile, missile	meerkat, mierkat	fiddler crab
+/home/03701/manuag/hw2/data/test_images/se/n02077923_9131.JPEG	sea lion	sea lion	lakeside, lakeshore	puffer, pufferfish, blowfish, globefish	fiddler crab	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/se/n02077923_6708.JPEG	sea lion	sea lion	bluetick	meerkat, mierkat	sandbar, sand bar	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/se/n02077923_6881.JPEG	sea lion	sea lion	bluetick	fiddler crab	shovel	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/se/n02077923_4448.JPEG	sea lion	mushroom	fiddler crab	sea lion	yurt	shovel
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_38177.JPEG	baseball	mushroom	baseball	lakeside, lakeshore	measuring cup	shovel
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_26668.JPEG	baseball	baseball	gong, tam-tam	dalmatian, coach dog, carriage dog	projectile, missile	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_13958.JPEG	baseball	baseball	yurt	meerkat, mierkat	church, church building	mushroom
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_29972.JPEG	baseball	baseball	mushroom	sax, saxophone	projectile, missile	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_14816.JPEG	baseball	baseball	mushroom	fiddler crab	lakeside, lakeshore	measuring cup
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_61109.JPEG	baseball	baseball	measuring cup	mushroom	puffer, pufferfish, blowfish, globefish	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_17356.JPEG	baseball	baseball	mushroom	measuring cup	gong, tam-tam	fiddler crab
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_5920.JPEG	baseball	baseball	gong, tam-tam	yurt	puffer, pufferfish, blowfish, globefish	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_33625.JPEG	baseball	baseball	sandbar, sand bar	measuring cup	sax, saxophone	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_2773.JPEG	baseball	baseball	mushroom	ant, emmet, pismire	gong, tam-tam	measuring cup
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_19179.JPEG	baseball	baseball	Saluki, gazelle hound	bluetick	dalmatian, coach dog, carriage dog	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_6695.JPEG	baseball	baseball	Saluki, gazelle hound	lakeside, lakeshore	sax, saxophone	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_25222.JPEG	baseball	baseball	sandbar, sand bar	fiddler crab	measuring cup	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_18270.JPEG	baseball	baseball	shovel	barber chair	sax, saxophone	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_5123.JPEG	baseball	baseball	mushroom	shovel	gong, tam-tam	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_4689.JPEG	baseball	baseball	ant, emmet, pismire	puffer, pufferfish, blowfish, globefish	measuring cup	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_507.JPEG	baseball	baseball	gong, tam-tam	measuring cup	sax, saxophone	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_34842.JPEG	baseball	mushroom	baseball	gong, tam-tam	measuring cup	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_14823.JPEG	baseball	baseball	measuring cup	yurt	barber chair	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/basebal/n02799071_36.JPEG	baseball	baseball	sandbar, sand bar	shovel	sax, saxophone	measuring cup
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_3968.JPEG	meerkat, mierkat	meerkat, mierkat	mushroom	sea lion	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_5296.JPEG	meerkat, mierkat	meerkat, mierkat	sea lion	snow leopard, ounce, Panthera uncia	mushroom	baseball
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_5085.JPEG	meerkat, mierkat	meerkat, mierkat	bluetick	snow leopard, ounce, Panthera uncia	mushroom	sea lion
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_5855.JPEG	meerkat, mierkat	meerkat, mierkat	sea lion	measuring cup	puffer, pufferfish, blowfish, globefish	Saluki, gazelle hound
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_3897.JPEG	meerkat, mierkat	meerkat, mierkat	measuring cup	mushroom	snow leopard, ounce, Panthera uncia	obelisk
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_6505.JPEG	meerkat, mierkat	meerkat, mierkat	sea lion	mushroom	shovel	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_4925.JPEG	meerkat, mierkat	meerkat, mierkat	sea lion	puffer, pufferfish, blowfish, globefish	mushroom	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_4255.JPEG	meerkat, mierkat	meerkat, mierkat	snow leopard, ounce, Panthera uncia	bluetick	sea lion	Saluki, gazelle hound
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_2827.JPEG	meerkat, mierkat	meerkat, mierkat	sea lion	mushroom	Saluki, gazelle hound	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_5501.JPEG	meerkat, mierkat	meerkat, mierkat	puffer, pufferfish, blowfish, globefish	sea lion	dalmatian, coach dog, carriage dog	measuring cup
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_842.JPEG	meerkat, mierkat	meerkat, mierkat	sea lion	snow leopard, ounce, Panthera uncia	obelisk	yurt
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_10568.JPEG	meerkat, mierkat	meerkat, mierkat	mushroom	dalmatian, coach dog, carriage dog	sax, saxophone	Saluki, gazelle hound
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_2539.JPEG	meerkat, mierkat	meerkat, mierkat	shovel	fiddler crab	snow leopard, ounce, Panthera uncia	sea lion
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_6016.JPEG	meerkat, mierkat	baseball	meerkat, mierkat	mushroom	fiddler crab	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_278.JPEG	meerkat, mierkat	meerkat, mierkat	snow leopard, ounce, Panthera uncia	mushroom	baseball	sea lion
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_8613.JPEG	meerkat, mierkat	meerkat, mierkat	Saluki, gazelle hound	fiddler crab	snow leopard, ounce, Panthera uncia	sea lion
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_3573.JPEG	meerkat, mierkat	meerkat, mierkat	snow leopard, ounce, Panthera uncia	bluetick	baseball	fiddler crab
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_6787.JPEG	meerkat, mierkat	meerkat, mierkat	bluetick	Saluki, gazelle hound	measuring cup	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_5531.JPEG	meerkat, mierkat	meerkat, mierkat	fiddler crab	puffer, pufferfish, blowfish, globefish	shovel	bluetick
+/home/03701/manuag/hw2/data/test_images/meerkat/n02138441_2806.JPEG	meerkat, mierkat	meerkat, mierkat	bluetick	sea lion	puffer, pufferfish, blowfish, globefish	Saluki, gazelle hound
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_2438.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	sea lion	snow leopard, ounce, Panthera uncia	fiddler crab	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_5208.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	sea lion	fiddler crab	measuring cup	shovel
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_1366.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	sea lion	measuring cup	fiddler crab	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_21778.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	ant, emmet, pismire	baseball	fiddler crab	mushroom
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_17363.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	measuring cup	baseball	shovel	mushroom
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_18411.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	ant, emmet, pismire	fiddler crab	meerkat, mierkat	church, church building
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_17536.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	sea lion	ant, emmet, pismire	measuring cup	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_8628.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	snow leopard, ounce, Panthera uncia	mushroom	fiddler crab	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_15594.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	fiddler crab	snow leopard, ounce, Panthera uncia	mushroom	sea lion
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_20894.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	sea lion	Brittany spaniel	church, church building	measuring cup
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_20295.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	mushroom	shovel	measuring cup	fiddler crab
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_117.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	dalmatian, coach dog, carriage dog	measuring cup	mushroom	fiddler crab
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_7929.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	sea lion	fiddler crab	bluetick	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_18210.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	fiddler crab	mushroom	snow leopard, ounce, Panthera uncia	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_9956.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	fiddler crab	dalmatian, coach dog, carriage dog	measuring cup	baseball
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_7690.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	ant, emmet, pismire	snow leopard, ounce, Panthera uncia	baseball	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_18473.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	mushroom	fiddler crab	church, church building	sea lion
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_18533.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	shovel	sea lion	fiddler crab	bluetick
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_47896.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	shovel	fiddler crab	sea lion	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/puffer/n02655020_11724.JPEG	puffer, pufferfish, blowfish, globefish	puffer, pufferfish, blowfish, globefish	sea lion	fiddler crab	ant, emmet, pismire	measuring cup
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_80.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	bluetick	shovel	Brittany spaniel	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_14518.JPEG	dalmatian, coach dog, carriage dog	Saluki, gazelle hound	dalmatian, coach dog, carriage dog	bluetick	Brittany spaniel	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_8644.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	baseball	sax, saxophone	yurt	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_1798.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	puffer, pufferfish, blowfish, globefish	snow leopard, ounce, Panthera uncia	fiddler crab	yurt
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_1449.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	bluetick	Brittany spaniel	snow leopard, ounce, Panthera uncia	Saluki, gazelle hound
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_5715.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	Saluki, gazelle hound	shovel	bluetick	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_7218.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	bluetick	sandbar, sand bar	shovel	fiddler crab
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_8094.JPEG	dalmatian, coach dog, carriage dog	bluetick	shovel	Saluki, gazelle hound	dalmatian, coach dog, carriage dog	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_1686.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	shovel	bluetick	snow leopard, ounce, Panthera uncia	yurt
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_2017.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	lakeside, lakeshore	Brittany spaniel	mushroom	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_7317.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	lakeside, lakeshore	sea lion	bluetick	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_8048.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	bluetick	lakeside, lakeshore	sandbar, sand bar	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_512.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	Saluki, gazelle hound	shovel	bluetick	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_681.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	baseball	yurt	church, church building	measuring cup
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_6677.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	Saluki, gazelle hound	puffer, pufferfish, blowfish, globefish	bluetick	shovel
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_8895.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	bluetick	shovel	sandbar, sand bar	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_8156.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	measuring cup	sax, saxophone	baseball	yurt
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_11999.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	Saluki, gazelle hound	bluetick	shovel	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_173.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	Saluki, gazelle hound	yurt	bluetick	shovel
+/home/03701/manuag/hw2/data/test_images/dalmatian/n02110341_15566.JPEG	dalmatian, coach dog, carriage dog	dalmatian, coach dog, carriage dog	yurt	snow leopard, ounce, Panthera uncia	gong, tam-tam	baseball
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_1264.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	bluetick	Brittany spaniel	dalmatian, coach dog, carriage dog	shovel
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_9436.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	bluetick	Brittany spaniel	gong, tam-tam	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_8630.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	mushroom	Brittany spaniel	puffer, pufferfish, blowfish, globefish	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_9857.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	Brittany spaniel	limousine, limo	gong, tam-tam	sea lion
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_2398.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	baseball	dalmatian, coach dog, carriage dog	bluetick	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_10744.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	baseball	dalmatian, coach dog, carriage dog	lakeside, lakeshore	yurt
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_4644.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	meerkat, mierkat	dalmatian, coach dog, carriage dog	yurt	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_942.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	bluetick	Brittany spaniel	fiddler crab	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_7638.JPEG	Saluki, gazelle hound	dalmatian, coach dog, carriage dog	Brittany spaniel	mushroom	bluetick	shovel
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_11191.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	bluetick	Brittany spaniel	meerkat, mierkat	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_6918.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	Brittany spaniel	dalmatian, coach dog, carriage dog	puffer, pufferfish, blowfish, globefish	yurt
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_7521.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	baseball	dalmatian, coach dog, carriage dog	Brittany spaniel	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_4007.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	Brittany spaniel	gong, tam-tam	bluetick	barber chair
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_7668.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	bluetick	sea lion	gong, tam-tam	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_12714.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	Brittany spaniel	dalmatian, coach dog, carriage dog	yurt	projectile, missile
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_14217.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	baseball	Brittany spaniel	bluetick	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_14101.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	Brittany spaniel	dalmatian, coach dog, carriage dog	bluetick	sea lion
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_6486.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	bluetick	sea lion	Brittany spaniel	fiddler crab
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_6497.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	Brittany spaniel	dalmatian, coach dog, carriage dog	gong, tam-tam	bluetick
+/home/03701/manuag/hw2/data/test_images/Saluki/n02091831_2704.JPEG	Saluki, gazelle hound	Saluki, gazelle hound	gong, tam-tam	Brittany spaniel	mushroom	bluetick
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_1530.JPEG	barber chair	barber chair	measuring cup	gong, tam-tam	shovel	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_138.JPEG	barber chair	barber chair	sax, saxophone	measuring cup	church, church building	limousine, limo
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_3038.JPEG	barber chair	barber chair	yurt	gong, tam-tam	limousine, limo	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_401.JPEG	barber chair	barber chair	measuring cup	mushroom	bearskin, busby, shako	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_12832.JPEG	barber chair	barber chair	measuring cup	sax, saxophone	bearskin, busby, shako	shovel
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_1289.JPEG	barber chair	barber chair	measuring cup	sax, saxophone	baseball	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_3081.JPEG	barber chair	barber chair	measuring cup	dalmatian, coach dog, carriage dog	gong, tam-tam	baseball
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_2491.JPEG	barber chair	barber chair	measuring cup	bearskin, busby, shako	mushroom	baseball
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_4296.JPEG	barber chair	barber chair	measuring cup	mushroom	gong, tam-tam	bluetick
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_7232.JPEG	barber chair	barber chair	sax, saxophone	limousine, limo	projectile, missile	sea lion
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_3331.JPEG	barber chair	barber chair	measuring cup	mushroom	shovel	obelisk
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_4679.JPEG	barber chair	barber chair	measuring cup	shovel	projectile, missile	baseball
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_3718.JPEG	barber chair	barber chair	sax, saxophone	projectile, missile	gong, tam-tam	limousine, limo
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_5748.JPEG	barber chair	barber chair	gong, tam-tam	projectile, missile	baseball	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_8002.JPEG	barber chair	barber chair	measuring cup	bluetick	gong, tam-tam	mushroom
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_1443.JPEG	barber chair	barber chair	sax, saxophone	gong, tam-tam	bearskin, busby, shako	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_6489.JPEG	barber chair	barber chair	shovel	dalmatian, coach dog, carriage dog	measuring cup	church, church building
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_1729.JPEG	barber chair	barber chair	projectile, missile	measuring cup	shovel	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_8866.JPEG	barber chair	barber chair	sea lion	gong, tam-tam	bearskin, busby, shako	projectile, missile
+/home/03701/manuag/hw2/data/test_images/barbe/n02791124_3256.JPEG	barber chair	barber chair	sax, saxophone	church, church building	gong, tam-tam	measuring cup
+/home/03701/manuag/hw2/data/test_images/church/n03028079_26272.JPEG	church, church building	church, church building	gong, tam-tam	yurt	sax, saxophone	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/church/n03028079_5852.JPEG	church, church building	church, church building	obelisk	limousine, limo	yurt	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/church/n03028079_30204.JPEG	church, church building	church, church building	gong, tam-tam	barber chair	yurt	obelisk
+/home/03701/manuag/hw2/data/test_images/church/n03028079_32386.JPEG	church, church building	church, church building	yurt	bearskin, busby, shako	lakeside, lakeshore	projectile, missile
+/home/03701/manuag/hw2/data/test_images/church/n03028079_9371.JPEG	church, church building	church, church building	yurt	sandbar, sand bar	shovel	mushroom
+/home/03701/manuag/hw2/data/test_images/church/n03028079_3492.JPEG	church, church building	church, church building	obelisk	gong, tam-tam	limousine, limo	barber chair
+/home/03701/manuag/hw2/data/test_images/church/n03028079_9525.JPEG	church, church building	church, church building	mushroom	lakeside, lakeshore	bearskin, busby, shako	yurt
+/home/03701/manuag/hw2/data/test_images/church/n03028079_26479.JPEG	church, church building	church, church building	obelisk	limousine, limo	yurt	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/church/n03028079_15102.JPEG	church, church building	church, church building	yurt	obelisk	projectile, missile	baseball
+/home/03701/manuag/hw2/data/test_images/church/n03028079_6076.JPEG	church, church building	church, church building	barber chair	yurt	obelisk	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/church/n03028079_1205.JPEG	church, church building	church, church building	mushroom	obelisk	yurt	projectile, missile
+/home/03701/manuag/hw2/data/test_images/church/n03028079_8971.JPEG	church, church building	church, church building	limousine, limo	bearskin, busby, shako	obelisk	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/church/n03028079_3000.JPEG	church, church building	church, church building	yurt	obelisk	lakeside, lakeshore	projectile, missile
+/home/03701/manuag/hw2/data/test_images/church/n03028079_10988.JPEG	church, church building	church, church building	gong, tam-tam	yurt	limousine, limo	mushroom
+/home/03701/manuag/hw2/data/test_images/church/n03028079_40120.JPEG	church, church building	church, church building	obelisk	projectile, missile	lakeside, lakeshore	mushroom
+/home/03701/manuag/hw2/data/test_images/church/n03028079_10014.JPEG	church, church building	church, church building	yurt	obelisk	gong, tam-tam	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/church/n03028079_39.JPEG	church, church building	church, church building	yurt	sandbar, sand bar	limousine, limo	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/church/n03028079_73897.JPEG	church, church building	church, church building	obelisk	mushroom	bearskin, busby, shako	limousine, limo
+/home/03701/manuag/hw2/data/test_images/church/n03028079_105285.JPEG	church, church building	church, church building	lakeside, lakeshore	projectile, missile	ant, emmet, pismire	mushroom
+/home/03701/manuag/hw2/data/test_images/church/n03028079_15618.JPEG	church, church building	church, church building	gong, tam-tam	obelisk	yurt	barber chair
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_6301.JPEG	yurt	yurt	shovel	church, church building	obelisk	Saluki, gazelle hound
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_4993.JPEG	yurt	lakeside, lakeshore	mushroom	shovel	yurt	church, church building
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_7324.JPEG	yurt	yurt	gong, tam-tam	mushroom	bearskin, busby, shako	church, church building
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_8.JPEG	yurt	yurt	barber chair	gong, tam-tam	mushroom	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_714.JPEG	yurt	yurt	church, church building	sandbar, sand bar	mushroom	limousine, limo
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_10256.JPEG	yurt	yurt	gong, tam-tam	mushroom	sax, saxophone	church, church building
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_4054.JPEG	yurt	yurt	sandbar, sand bar	mushroom	gong, tam-tam	church, church building
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_425.JPEG	yurt	yurt	lakeside, lakeshore	mushroom	church, church building	obelisk
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_9904.JPEG	yurt	yurt	church, church building	Saluki, gazelle hound	dalmatian, coach dog, carriage dog	mushroom
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_5353.JPEG	yurt	yurt	sandbar, sand bar	bearskin, busby, shako	sax, saxophone	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_816.JPEG	yurt	yurt	church, church building	mushroom	lakeside, lakeshore	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_7466.JPEG	yurt	yurt	gong, tam-tam	baseball	mushroom	measuring cup
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_5695.JPEG	yurt	yurt	mushroom	church, church building	sandbar, sand bar	obelisk
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_89.JPEG	yurt	yurt	mushroom	sandbar, sand bar	Saluki, gazelle hound	church, church building
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_5371.JPEG	yurt	yurt	church, church building	mushroom	gong, tam-tam	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_6108.JPEG	yurt	yurt	gong, tam-tam	mushroom	measuring cup	church, church building
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_11321.JPEG	yurt	sax, saxophone	baseball	yurt	dalmatian, coach dog, carriage dog	limousine, limo
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_4210.JPEG	yurt	yurt	gong, tam-tam	sax, saxophone	mushroom	church, church building
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_1244.JPEG	yurt	yurt	gong, tam-tam	mushroom	church, church building	baseball
+/home/03701/manuag/hw2/data/test_images/yur/n04613696_6401.JPEG	yurt	yurt	sandbar, sand bar	gong, tam-tam	lakeside, lakeshore	limousine, limo
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_9647.JPEG	obelisk	obelisk	church, church building	limousine, limo	sax, saxophone	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_8545.JPEG	obelisk	obelisk	limousine, limo	meerkat, mierkat	snow leopard, ounce, Panthera uncia	projectile, missile
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_7091.JPEG	obelisk	obelisk	projectile, missile	meerkat, mierkat	limousine, limo	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_4413.JPEG	obelisk	obelisk	meerkat, mierkat	projectile, missile	sandbar, sand bar	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_2108.JPEG	obelisk	obelisk	lakeside, lakeshore	mushroom	meerkat, mierkat	projectile, missile
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_3918.JPEG	obelisk	obelisk	sandbar, sand bar	projectile, missile	limousine, limo	baseball
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_6699.JPEG	obelisk	obelisk	sea lion	bearskin, busby, shako	projectile, missile	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_9226.JPEG	obelisk	obelisk	projectile, missile	meerkat, mierkat	sandbar, sand bar	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_5209.JPEG	obelisk	obelisk	projectile, missile	meerkat, mierkat	mushroom	baseball
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_8571.JPEG	obelisk	obelisk	projectile, missile	meerkat, mierkat	sandbar, sand bar	ant, emmet, pismire
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_3430.JPEG	obelisk	obelisk	lakeside, lakeshore	projectile, missile	limousine, limo	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_8736.JPEG	obelisk	obelisk	church, church building	yurt	projectile, missile	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_8827.JPEG	obelisk	obelisk	limousine, limo	projectile, missile	sea lion	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_5615.JPEG	obelisk	obelisk	projectile, missile	meerkat, mierkat	lakeside, lakeshore	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_1253.JPEG	obelisk	obelisk	lakeside, lakeshore	church, church building	shovel	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_9128.JPEG	obelisk	obelisk	projectile, missile	church, church building	lakeside, lakeshore	baseball
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_8195.JPEG	obelisk	obelisk	lakeside, lakeshore	projectile, missile	bearskin, busby, shako	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_4932.JPEG	obelisk	obelisk	church, church building	sea lion	projectile, missile	limousine, limo
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_2309.JPEG	obelisk	obelisk	sandbar, sand bar	projectile, missile	shovel	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/obelis/n03837869_6640.JPEG	obelisk	obelisk	lakeside, lakeshore	church, church building	snow leopard, ounce, Panthera uncia	baseball
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_2475.JPEG	bluetick	bluetick	Brittany spaniel	dalmatian, coach dog, carriage dog	shovel	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_7271.JPEG	bluetick	bluetick	dalmatian, coach dog, carriage dog	Brittany spaniel	sea lion	limousine, limo
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_242.JPEG	bluetick	bluetick	sea lion	Saluki, gazelle hound	Brittany spaniel	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_8714.JPEG	bluetick	bluetick	barber chair	dalmatian, coach dog, carriage dog	Brittany spaniel	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_9224.JPEG	bluetick	bluetick	Brittany spaniel	dalmatian, coach dog, carriage dog	Saluki, gazelle hound	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_8199.JPEG	bluetick	bluetick	dalmatian, coach dog, carriage dog	shovel	sea lion	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_3347.JPEG	bluetick	bluetick	Saluki, gazelle hound	Brittany spaniel	meerkat, mierkat	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_916.JPEG	bluetick	bluetick	dalmatian, coach dog, carriage dog	shovel	bearskin, busby, shako	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_2621.JPEG	bluetick	bluetick	gong, tam-tam	lakeside, lakeshore	snow leopard, ounce, Panthera uncia	barber chair
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_5061.JPEG	bluetick	bluetick	church, church building	limousine, limo	dalmatian, coach dog, carriage dog	yurt
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_8439.JPEG	bluetick	bluetick	dalmatian, coach dog, carriage dog	shovel	Saluki, gazelle hound	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_1771.JPEG	bluetick	bluetick	dalmatian, coach dog, carriage dog	Saluki, gazelle hound	Brittany spaniel	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_2891.JPEG	bluetick	bluetick	Saluki, gazelle hound	Brittany spaniel	sea lion	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_6404.JPEG	bluetick	bluetick	Brittany spaniel	dalmatian, coach dog, carriage dog	church, church building	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_7189.JPEG	bluetick	bluetick	Saluki, gazelle hound	gong, tam-tam	sea lion	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_650.JPEG	bluetick	bluetick	sea lion	shovel	dalmatian, coach dog, carriage dog	snow leopard, ounce, Panthera uncia
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_1105.JPEG	bluetick	bluetick	dalmatian, coach dog, carriage dog	Saluki, gazelle hound	puffer, pufferfish, blowfish, globefish	shovel
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_9652.JPEG	bluetick	bluetick	Saluki, gazelle hound	Brittany spaniel	shovel	sea lion
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_7363.JPEG	bluetick	bluetick	sea lion	gong, tam-tam	meerkat, mierkat	barber chair
+/home/03701/manuag/hw2/data/test_images/bluetic/n02088632_9306.JPEG	bluetick	bluetick	sea lion	baseball	measuring cup	fiddler crab
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_1496.JPEG	lakeside, lakeshore	sandbar, sand bar	lakeside, lakeshore	obelisk	limousine, limo	sea lion
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_22580.JPEG	lakeside, lakeshore	lakeside, lakeshore	church, church building	sandbar, sand bar	yurt	shovel
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_24109.JPEG	lakeside, lakeshore	lakeside, lakeshore	church, church building	bearskin, busby, shako	limousine, limo	yurt
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_14724.JPEG	lakeside, lakeshore	lakeside, lakeshore	yurt	church, church building	mushroom	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_5068.JPEG	lakeside, lakeshore	lakeside, lakeshore	sandbar, sand bar	yurt	bluetick	sea lion
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_33768.JPEG	lakeside, lakeshore	lakeside, lakeshore	church, church building	sea lion	Brittany spaniel	limousine, limo
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_26554.JPEG	lakeside, lakeshore	lakeside, lakeshore	sea lion	sandbar, sand bar	dalmatian, coach dog, carriage dog	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_2937.JPEG	lakeside, lakeshore	lakeside, lakeshore	sea lion	sandbar, sand bar	puffer, pufferfish, blowfish, globefish	projectile, missile
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_32520.JPEG	lakeside, lakeshore	lakeside, lakeshore	church, church building	sandbar, sand bar	sea lion	obelisk
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_3825.JPEG	lakeside, lakeshore	lakeside, lakeshore	puffer, pufferfish, blowfish, globefish	sea lion	church, church building	mushroom
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_30490.JPEG	lakeside, lakeshore	lakeside, lakeshore	measuring cup	puffer, pufferfish, blowfish, globefish	church, church building	projectile, missile
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_13738.JPEG	lakeside, lakeshore	sandbar, sand bar	ant, emmet, pismire	baseball	puffer, pufferfish, blowfish, globefish	mushroom
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_18105.JPEG	lakeside, lakeshore	lakeside, lakeshore	mushroom	shovel	church, church building	yurt
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_33906.JPEG	lakeside, lakeshore	lakeside, lakeshore	church, church building	sandbar, sand bar	obelisk	mushroom
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_8081.JPEG	lakeside, lakeshore	lakeside, lakeshore	sea lion	yurt	sandbar, sand bar	church, church building
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_5474.JPEG	lakeside, lakeshore	lakeside, lakeshore	sea lion	yurt	gong, tam-tam	projectile, missile
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_19080.JPEG	lakeside, lakeshore	fiddler crab	lakeside, lakeshore	sandbar, sand bar	ant, emmet, pismire	baseball
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_23253.JPEG	lakeside, lakeshore	sandbar, sand bar	lakeside, lakeshore	sea lion	shovel	measuring cup
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_7127.JPEG	lakeside, lakeshore	lakeside, lakeshore	sandbar, sand bar	sea lion	fiddler crab	bluetick
+/home/03701/manuag/hw2/data/test_images/lakeside/n09332890_4200.JPEG	lakeside, lakeshore	lakeside, lakeshore	sea lion	sandbar, sand bar	puffer, pufferfish, blowfish, globefish	church, church building
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_6895.JPEG	mushroom	mushroom	gong, tam-tam	shovel	Saluki, gazelle hound	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_4662.JPEG	mushroom	mushroom	yurt	baseball	sandbar, sand bar	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_845.JPEG	mushroom	mushroom	ant, emmet, pismire	baseball	yurt	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_3313.JPEG	mushroom	mushroom	ant, emmet, pismire	baseball	fiddler crab	shovel
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_2279.JPEG	mushroom	mushroom	baseball	lakeside, lakeshore	gong, tam-tam	projectile, missile
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_3048.JPEG	mushroom	mushroom	baseball	gong, tam-tam	shovel	measuring cup
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_9189.JPEG	mushroom	mushroom	shovel	measuring cup	ant, emmet, pismire	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_3125.JPEG	mushroom	mushroom	shovel	ant, emmet, pismire	baseball	yurt
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_5749.JPEG	mushroom	mushroom	ant, emmet, pismire	fiddler crab	sax, saxophone	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_1549.JPEG	mushroom	mushroom	ant, emmet, pismire	shovel	measuring cup	baseball
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_3160.JPEG	mushroom	mushroom	obelisk	church, church building	yurt	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_19877.JPEG	mushroom	mushroom	gong, tam-tam	measuring cup	ant, emmet, pismire	baseball
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_5441.JPEG	mushroom	mushroom	ant, emmet, pismire	meerkat, mierkat	fiddler crab	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_6700.JPEG	mushroom	mushroom	yurt	lakeside, lakeshore	church, church building	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_11204.JPEG	mushroom	mushroom	puffer, pufferfish, blowfish, globefish	baseball	measuring cup	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_4658.JPEG	mushroom	mushroom	shovel	bluetick	yurt	measuring cup
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_7381.JPEG	mushroom	mushroom	lakeside, lakeshore	ant, emmet, pismire	measuring cup	fiddler crab
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_4473.JPEG	mushroom	mushroom	baseball	puffer, pufferfish, blowfish, globefish	bearskin, busby, shako	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_12591.JPEG	mushroom	mushroom	gong, tam-tam	barber chair	shovel	measuring cup
+/home/03701/manuag/hw2/data/test_images/mushroo/n07734744_4057.JPEG	mushroom	mushroom	baseball	Saluki, gazelle hound	gong, tam-tam	yurt
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_25279.JPEG	measuring cup	measuring cup	shovel	ant, emmet, pismire	sax, saxophone	projectile, missile
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_2931.JPEG	measuring cup	measuring cup	barber chair	shovel	bearskin, busby, shako	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_6869.JPEG	measuring cup	measuring cup	baseball	gong, tam-tam	shovel	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_1859.JPEG	measuring cup	measuring cup	barber chair	bluetick	projectile, missile	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_30853.JPEG	measuring cup	measuring cup	baseball	shovel	bearskin, busby, shako	projectile, missile
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_6629.JPEG	measuring cup	measuring cup	shovel	gong, tam-tam	barber chair	sea lion
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_2105.JPEG	measuring cup	measuring cup	shovel	barber chair	bearskin, busby, shako	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_4202.JPEG	measuring cup	measuring cup	fiddler crab	barber chair	puffer, pufferfish, blowfish, globefish	shovel
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_4909.JPEG	measuring cup	measuring cup	meerkat, mierkat	sax, saxophone	puffer, pufferfish, blowfish, globefish	ant, emmet, pismire
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_22906.JPEG	measuring cup	measuring cup	bearskin, busby, shako	projectile, missile	barber chair	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_8246.JPEG	measuring cup	measuring cup	yurt	bearskin, busby, shako	shovel	barber chair
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_14196.JPEG	measuring cup	measuring cup	barber chair	shovel	meerkat, mierkat	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_1617.JPEG	measuring cup	measuring cup	baseball	puffer, pufferfish, blowfish, globefish	barber chair	shovel
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_12861.JPEG	measuring cup	measuring cup	bluetick	barber chair	shovel	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_2482.JPEG	measuring cup	measuring cup	ant, emmet, pismire	projectile, missile	gong, tam-tam	mushroom
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_5796.JPEG	measuring cup	measuring cup	gong, tam-tam	ant, emmet, pismire	puffer, pufferfish, blowfish, globefish	barber chair
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_6625.JPEG	measuring cup	measuring cup	shovel	baseball	bearskin, busby, shako	ant, emmet, pismire
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_5012.JPEG	measuring cup	measuring cup	gong, tam-tam	shovel	barber chair	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_1646.JPEG	measuring cup	measuring cup	shovel	bearskin, busby, shako	baseball	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/measurin/n03733805_15831.JPEG	measuring cup	measuring cup	dalmatian, coach dog, carriage dog	sandbar, sand bar	baseball	ant, emmet, pismire
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_49999.JPEG	projectile, missile	projectile, missile	obelisk	church, church building	yurt	barber chair
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_30786.JPEG	projectile, missile	projectile, missile	gong, tam-tam	church, church building	sax, saxophone	shovel
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_24395.JPEG	projectile, missile	limousine, limo	projectile, missile	sax, saxophone	gong, tam-tam	baseball
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_17056.JPEG	projectile, missile	projectile, missile	barber chair	bluetick	baseball	limousine, limo
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_51222.JPEG	projectile, missile	projectile, missile	baseball	measuring cup	mushroom	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_390.JPEG	projectile, missile	projectile, missile	sax, saxophone	sea lion	baseball	limousine, limo
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_47755.JPEG	projectile, missile	projectile, missile	limousine, limo	sax, saxophone	yurt	barber chair
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_14729.JPEG	projectile, missile	projectile, missile	limousine, limo	sea lion	sax, saxophone	yurt
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_24542.JPEG	projectile, missile	projectile, missile	obelisk	church, church building	meerkat, mierkat	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_19446.JPEG	projectile, missile	obelisk	projectile, missile	sandbar, sand bar	sea lion	church, church building
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_2528.JPEG	projectile, missile	projectile, missile	sax, saxophone	ant, emmet, pismire	measuring cup	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_4761.JPEG	projectile, missile	projectile, missile	limousine, limo	measuring cup	baseball	barber chair
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_7963.JPEG	projectile, missile	projectile, missile	measuring cup	gong, tam-tam	yurt	barber chair
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_21250.JPEG	projectile, missile	projectile, missile	limousine, limo	barber chair	baseball	sandbar, sand bar
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_10110.JPEG	projectile, missile	projectile, missile	sax, saxophone	baseball	lakeside, lakeshore	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_17363.JPEG	projectile, missile	projectile, missile	sax, saxophone	sea lion	limousine, limo	baseball
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_14282.JPEG	projectile, missile	projectile, missile	limousine, limo	barber chair	dalmatian, coach dog, carriage dog	baseball
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_17073.JPEG	projectile, missile	projectile, missile	sax, saxophone	mushroom	sea lion	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_26235.JPEG	projectile, missile	projectile, missile	obelisk	limousine, limo	sea lion	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/projectile/n04008634_588.JPEG	projectile, missile	measuring cup	shovel	sax, saxophone	bearskin, busby, shako	mushroom
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_9950.JPEG	Brittany spaniel	Brittany spaniel	gong, tam-tam	bluetick	mushroom	baseball
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_11562.JPEG	Brittany spaniel	Brittany spaniel	bluetick	dalmatian, coach dog, carriage dog	mushroom	shovel
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_23693.JPEG	Brittany spaniel	Brittany spaniel	dalmatian, coach dog, carriage dog	mushroom	baseball	bluetick
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_5125.JPEG	Brittany spaniel	Brittany spaniel	Saluki, gazelle hound	bluetick	shovel	mushroom
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_4671.JPEG	Brittany spaniel	Brittany spaniel	bluetick	Saluki, gazelle hound	dalmatian, coach dog, carriage dog	mushroom
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_4322.JPEG	Brittany spaniel	Brittany spaniel	bluetick	mushroom	yurt	baseball
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_10055.JPEG	Brittany spaniel	bluetick	barber chair	dalmatian, coach dog, carriage dog	limousine, limo	Brittany spaniel
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_1941.JPEG	Brittany spaniel	Brittany spaniel	bluetick	dalmatian, coach dog, carriage dog	measuring cup	baseball
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_5115.JPEG	Brittany spaniel	Brittany spaniel	dalmatian, coach dog, carriage dog	bluetick	Saluki, gazelle hound	baseball
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_12438.JPEG	Brittany spaniel	Brittany spaniel	mushroom	bluetick	dalmatian, coach dog, carriage dog	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_24261.JPEG	Brittany spaniel	Brittany spaniel	bluetick	dalmatian, coach dog, carriage dog	mushroom	bearskin, busby, shako
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_12119.JPEG	Brittany spaniel	Brittany spaniel	bluetick	dalmatian, coach dog, carriage dog	measuring cup	shovel
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_9655.JPEG	Brittany spaniel	Brittany spaniel	bluetick	Saluki, gazelle hound	dalmatian, coach dog, carriage dog	barber chair
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_22036.JPEG	Brittany spaniel	Brittany spaniel	bluetick	dalmatian, coach dog, carriage dog	yurt	mushroom
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_3673.JPEG	Brittany spaniel	Brittany spaniel	bluetick	Saluki, gazelle hound	sandbar, sand bar	fiddler crab
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_5820.JPEG	Brittany spaniel	Brittany spaniel	bluetick	dalmatian, coach dog, carriage dog	mushroom	shovel
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_17905.JPEG	Brittany spaniel	Brittany spaniel	mushroom	bluetick	dalmatian, coach dog, carriage dog	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_3765.JPEG	Brittany spaniel	Saluki, gazelle hound	Brittany spaniel	dalmatian, coach dog, carriage dog	bluetick	baseball
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_17713.JPEG	Brittany spaniel	Brittany spaniel	projectile, missile	mushroom	barber chair	baseball
+/home/03701/manuag/hw2/data/test_images/Brittan/n02101388_7432.JPEG	Brittany spaniel	Brittany spaniel	bluetick	dalmatian, coach dog, carriage dog	yurt	shovel
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_26558.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	baseball	measuring cup	mushroom
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_25216.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	Brittany spaniel	sax, saxophone	baseball
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_28086.JPEG	ant, emmet, pismire	measuring cup	shovel	ant, emmet, pismire	gong, tam-tam	sea lion
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_28317.JPEG	ant, emmet, pismire	ant, emmet, pismire	baseball	dalmatian, coach dog, carriage dog	mushroom	measuring cup
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_30846.JPEG	ant, emmet, pismire	ant, emmet, pismire	measuring cup	sax, saxophone	church, church building	projectile, missile
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_14662.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	baseball	shovel	measuring cup
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_22936.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	mushroom	baseball	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_29939.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	sax, saxophone	baseball	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_29733.JPEG	ant, emmet, pismire	measuring cup	fiddler crab	barber chair	gong, tam-tam	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_18594.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	mushroom	puffer, pufferfish, blowfish, globefish	shovel
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_22484.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	shovel	sea lion	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_28277.JPEG	ant, emmet, pismire	mushroom	fiddler crab	ant, emmet, pismire	puffer, pufferfish, blowfish, globefish	baseball
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_28158.JPEG	ant, emmet, pismire	ant, emmet, pismire	puffer, pufferfish, blowfish, globefish	fiddler crab	baseball	sea lion
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_28555.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	puffer, pufferfish, blowfish, globefish	shovel	mushroom
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_1018.JPEG	ant, emmet, pismire	ant, emmet, pismire	puffer, pufferfish, blowfish, globefish	meerkat, mierkat	measuring cup	baseball
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_25238.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	sea lion	puffer, pufferfish, blowfish, globefish	mushroom
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_21275.JPEG	ant, emmet, pismire	ant, emmet, pismire	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	fiddler crab	sax, saxophone
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_23436.JPEG	ant, emmet, pismire	ant, emmet, pismire	fiddler crab	puffer, pufferfish, blowfish, globefish	sax, saxophone	measuring cup
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_27304.JPEG	ant, emmet, pismire	ant, emmet, pismire	sax, saxophone	mushroom	church, church building	shovel
+/home/03701/manuag/hw2/data/test_images/ant/n02219486_30368.JPEG	ant, emmet, pismire	shovel	fiddler crab	ant, emmet, pismire	church, church building	baseball
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_4820.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	meerkat, mierkat	bluetick	shovel	baseball
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_10737.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	meerkat, mierkat	baseball	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_11993.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	meerkat, mierkat	sea lion	yurt	mushroom
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_7808.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	meerkat, mierkat	puffer, pufferfish, blowfish, globefish	bluetick	fiddler crab
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_4234.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	dalmatian, coach dog, carriage dog	meerkat, mierkat	fiddler crab
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_4673.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	dalmatian, coach dog, carriage dog	meerkat, mierkat	baseball	puffer, pufferfish, blowfish, globefish
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_10922.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	dalmatian, coach dog, carriage dog	meerkat, mierkat	sea lion
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_7373.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	sea lion	fiddler crab	baseball
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_4002.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	dalmatian, coach dog, carriage dog	puffer, pufferfish, blowfish, globefish	baseball	shovel
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_1636.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	dalmatian, coach dog, carriage dog	puffer, pufferfish, blowfish, globefish	bluetick	sea lion
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_9543.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	sea lion	dalmatian, coach dog, carriage dog	lakeside, lakeshore
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_10401.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	mushroom	shovel	yurt	baseball
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_8761.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	dalmatian, coach dog, carriage dog	puffer, pufferfish, blowfish, globefish	meerkat, mierkat	sea lion
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_2257.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	dalmatian, coach dog, carriage dog	sea lion	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_12241.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	sea lion	fiddler crab	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_5738.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	sea lion	meerkat, mierkat	mushroom	fiddler crab
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_5719.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	meerkat, mierkat	obelisk	dalmatian, coach dog, carriage dog	baseball
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_6397.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	meerkat, mierkat	dalmatian, coach dog, carriage dog	sea lion
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_16237.JPEG	snow leopard, ounce, Panthera uncia	puffer, pufferfish, blowfish, globefish	snow leopard, ounce, Panthera uncia	sea lion	fiddler crab	meerkat, mierkat
+/home/03701/manuag/hw2/data/test_images/sno/n02128757_361.JPEG	snow leopard, ounce, Panthera uncia	snow leopard, ounce, Panthera uncia	dalmatian, coach dog, carriage dog	puffer, pufferfish, blowfish, globefish	shovel	church, church building
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_16942.JPEG	sandbar, sand bar	sandbar, sand bar	bluetick	Brittany spaniel	lakeside, lakeshore	sea lion
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_14563.JPEG	sandbar, sand bar	sandbar, sand bar	sea lion	baseball	shovel	ant, emmet, pismire
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_9382.JPEG	sandbar, sand bar	sandbar, sand bar	measuring cup	lakeside, lakeshore	puffer, pufferfish, blowfish, globefish	baseball
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_16291.JPEG	sandbar, sand bar	sandbar, sand bar	lakeside, lakeshore	yurt	shovel	obelisk
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_34329.JPEG	sandbar, sand bar	sandbar, sand bar	lakeside, lakeshore	dalmatian, coach dog, carriage dog	puffer, pufferfish, blowfish, globefish	baseball
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_9321.JPEG	sandbar, sand bar	lakeside, lakeshore	sea lion	sandbar, sand bar	Saluki, gazelle hound	bluetick
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_14792.JPEG	sandbar, sand bar	shovel	sea lion	sax, saxophone	sandbar, sand bar	bluetick
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_14487.JPEG	sandbar, sand bar	sandbar, sand bar	lakeside, lakeshore	baseball	measuring cup	shovel
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_9639.JPEG	sandbar, sand bar	sea lion	lakeside, lakeshore	fiddler crab	sandbar, sand bar	bluetick
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_11397.JPEG	sandbar, sand bar	lakeside, lakeshore	sea lion	sandbar, sand bar	puffer, pufferfish, blowfish, globefish	fiddler crab
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_9523.JPEG	sandbar, sand bar	sandbar, sand bar	lakeside, lakeshore	sea lion	shovel	projectile, missile
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_32540.JPEG	sandbar, sand bar	sandbar, sand bar	sea lion	ant, emmet, pismire	measuring cup	baseball
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_6110.JPEG	sandbar, sand bar	sandbar, sand bar	lakeside, lakeshore	sea lion	puffer, pufferfish, blowfish, globefish	measuring cup
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_23948.JPEG	sandbar, sand bar	sandbar, sand bar	yurt	projectile, missile	church, church building	measuring cup
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_9688.JPEG	sandbar, sand bar	dalmatian, coach dog, carriage dog	sandbar, sand bar	projectile, missile	lakeside, lakeshore	shovel
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_14568.JPEG	sandbar, sand bar	sandbar, sand bar	yurt	baseball	mushroom	gong, tam-tam
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_15239.JPEG	sandbar, sand bar	sandbar, sand bar	sea lion	puffer, pufferfish, blowfish, globefish	lakeside, lakeshore	dalmatian, coach dog, carriage dog
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_17913.JPEG	sandbar, sand bar	sandbar, sand bar	lakeside, lakeshore	yurt	sea lion	baseball
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_17633.JPEG	sandbar, sand bar	sandbar, sand bar	lakeside, lakeshore	baseball	sea lion	projectile, missile
+/home/03701/manuag/hw2/data/test_images/sandbar/n09421951_2508.JPEG	sandbar, sand bar	sandbar, sand bar	lakeside, lakeshore	sea lion	fiddler crab	dalmatian, coach dog, carriage dog
